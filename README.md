@@ -1,1 +1,1 @@
-# -PR-N2N-Encrypted-Face-Recognition
+# N2N-Encrypted-Face-Recognition
