@@ -1,4 +1,4 @@
-# N2N Encrypted Face Recognition
+# CipherFace and CryptoFace reimplement
 
 This repository contains our course project for **Privacy Protection and Face
 Recognition**. The project studies privacy-preserving face recognition, starting
